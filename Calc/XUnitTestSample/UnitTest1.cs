@@ -15,7 +15,7 @@ namespace XUnitTestSample
         [Theory]
         [InlineData(3,4,7)]
         [InlineData(5,6,11)]
-        [InlineData(-4,4,0)]
+        [InlineData(-5,5,0)]
         public void Test2(int num1, int num2, int expectedResult)
         {
             Calc.Calculator calculator = new Calc.Calculator();
