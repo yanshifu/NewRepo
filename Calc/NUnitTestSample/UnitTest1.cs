@@ -2,7 +2,7 @@ using NUnit.Framework;
 
 namespace NUnitTestSample
 {
-    [System.Diagnostics.CodeAnalysis.ExcludeFromCodeCoverage]
+
     public class Tests
     {
   
